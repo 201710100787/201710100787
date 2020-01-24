@@ -3,7 +3,7 @@ void main()
 {
 	int i,j,item[4][5],hari[5],priya[5],poorna[5],chandra[5];
 	printf("enter the cost of items\n");
-	for(i=0;i<4;i++)
+	for(i=0;i<4;i++)eeeeee
 		for (j=0;j<5;j++)
  	scanf("%d",&item[i][j]);
        	for(j=0;j<5;j++)
