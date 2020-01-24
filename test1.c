@@ -7,7 +7,7 @@ void main()
 		for (j=0;j<5;j++)
  	scanf("%d",&item[i][j]);
        	for(j=0;j<5;j++)
-	{
+	{efgh
         hari[j]=item[0][j];
 	priya[j]=item[1][j];
         poorna[j]=item[2][j];
