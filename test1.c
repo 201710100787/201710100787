@@ -28,4 +28,4 @@ void main()
 	printf("total amount of chandra is\n");
         for (j=0;j<5;j++)
         printf("%d",chandra[j]);
-}
+}uhjjjkkjk
