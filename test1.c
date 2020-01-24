@@ -7,7 +7,11 @@ void main()
 		for (j=0;j<5;j++)
  	scanf("%d",&item[i][j]);
        	for(j=0;j<5;j++)
-	{abcd
+
+	
+
+	{
+
         hari[j]=item[0][j];
 	priya[j]=item[1][j];
         poorna[j]=item[2][j];
@@ -23,7 +27,7 @@ void main()
  
 	printf("total amount of poorna is\n");
         for (j=0;j<5;j++)
-        printf("%d",poorna[j]);
+        printf("%d",poorna[j]);wedfgbfnh
  
 	printf("total amount of chandra is\n");
         for (j=0;j<5;j++)
