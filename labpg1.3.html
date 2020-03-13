@@ -1,0 +1,45 @@
+<html>
+<head>
+<style>
+div {
+  background-color: green;
+  color: white;
+  padding: 25px;
+  text-align: center;
+}
+
+div:hover {
+  background-color: blue;
+}
+div.first{
+ background:rgba(76,175,80,1);
+}
+p::first-letter {
+  color: #ff0000;
+  font-size: xx-large;
+}
+
+p::first-line {
+  color: #0000ff;
+  font-variant: small-caps;
+}
+/*p::before {
+  content: "Read this -";
+}*/
+
+p::after{
+  content:url(index.jpeg);
+}
+</style>
+</head>
+<body>
+
+<div class="first"><p>Sanjay</p></div>
+<p>Read this -</p>
+<p>Mouse over the div element below to change its background color:</p>
+
+<div>Mouse Over Me</div>
+
+</body>
+</html>
+
